@@ -1,0 +1,15 @@
+"","celltype","group","Number"
+"1","Epithelial","HNRNPC-High",2921
+"2","Endothelial","HNRNPC-High",2550
+"3","Neuron","HNRNPC-High",773
+"4","Stromal cell","HNRNPC-High",1408
+"5","Myeloid cell","HNRNPC-High",777
+"6","T cell","HNRNPC-High",297
+"7","Muscle cell","HNRNPC-High",938
+"8","Epithelial","HNRNPC-Low",7704
+"9","Endothelial","HNRNPC-Low",145
+"10","Neuron","HNRNPC-Low",565
+"11","Stromal cell","HNRNPC-Low",152
+"12","Myeloid cell","HNRNPC-Low",86
+"13","T cell","HNRNPC-Low",148
+"14","Muscle cell","HNRNPC-Low",370
